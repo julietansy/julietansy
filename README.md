@@ -1,0 +1,13 @@
+# Julie's Portfolio
+Welcome to my data portfolio and a learning journey! This is a space where a summary of my data projects are documentated.
+
+## Table of Contents
+- [SQL](#SQL)
+- 👋 Hi, I’m @julietansy
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+
+# SQL
