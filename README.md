@@ -1,13 +1,12 @@
-# Julie's Portfolio
-Welcome to my data portfolio and a learning journey! This is a space where a summary of my data projects are documentated.
+# My Data Expedition
+Hi, I'm Julie. Data enthusiast and explorer. 📊🌟 
 
-## Table of Contents
-- [SQL](#SQL)
-- 👋 Hi, I’m @julietansy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+This is my hub for all things data—a collection of projects, insights, and discoveries. Join me as I navigate the world of numbers and uncover their stories. Welcome aboard!
 
+## What interests me?
+- Developing data visualization on Tableau and Power BI
+- Generating reports using SQL and Excel Power Query
+- Analysing data with Python
 
-# SQL
+## Projects
+
