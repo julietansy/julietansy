@@ -35,3 +35,8 @@ This is my hub for all things data—a collection of projects, insights, and dis
 | Project Link | Area of Analysis | Project Description | Data Source |
 |---|---|---|---|
 |[Career Track Analysis](https://github.com/julietansy/365DataScience_Career-Track-Analysis.git) | Data transformation, data analysis |---|[365datascience](https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)|
+
+**Python**
+| Project Link | Area of Analysis | Project Description | Data Source |
+|---|---|---|---|
+|[Ames Housing](https://github.com/julietansy/Ames-Housing#-ames-housing-sale-price) | Data cleaning, data transformation, Correlation, Regression Analysis |Property age significantly impacts sale prices, with younger houses generally holding higher values. In addition to age, factors like diverse living areas—total living, first-floor, ground, and basement areas—contribute substantially to property values. Larger garage spaces also influence prices positively, together with the number of baths, indicating distinct preferences in determining a property's market value.|[Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/code)|
