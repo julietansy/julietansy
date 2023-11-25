@@ -15,6 +15,18 @@ This is my hub for all things data—a collection of projects, insights, and dis
 ## What I've done
 
 
+**SQL**
+| Project Link | Area of Analysis | Data Source |
+|---|---|---|
+|[Career Track Analysis](https://github.com/julietansy/365DataScience_Career-Track-Analysis.git) | Data transformation, data analysis |[365datascience](https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)|
+|[Hospital Patient Admission Analysis](https://github.com/julietansy/Patient-Admission/tree/main)| Data manipulation, data transformation |[SQL Practice](https://www.sql-practice.com/)|
+
+**Python**
+| Project Link | Area of Analysis | Project Description | Data Source |
+|---|---|---|---|
+|[Ames Housing](https://github.com/julietansy/Ames-Housing#-ames-housing-sale-price) | Data cleaning, data transformation, Correlation, Regression Analysis |Property age significantly impacts sale prices, with younger houses generally holding higher values. In addition to age, factors like diverse living areas—total living, first-floor, ground, and basement areas—contribute substantially to property values. Larger garage spaces also influence prices positively, together with the number of baths, indicating distinct preferences in determining a property's market value.|[Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/code)|
+
+
 **Tableau**
 | Dashboard Link | Project Description | Key Insights/Impact | Data Source |
 |---|---|---|---|
@@ -23,20 +35,3 @@ This is my hub for all things data—a collection of projects, insights, and dis
 |[Headcount Movement Report](https://public.tableau.com/app/profile/julie1155/viz/HeadcountMovementReport/HeadcountMovement)| Visualizing headcount movements: active employees, new hires, attrition. | Tracked cross-departmental trends in hiring and attrition dynamics. | [data.world](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Human+Resources.csv) |
 |[Diversity Scorecard](https://public.tableau.com/app/profile/julie1155/viz/DiversityScorecard_16974504135040/DiversityScorecard)| Visualizing organization's diversity across gender, race and age. | Monitoring of diversity within the organzation. | [data.world](https://data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=Human+Resources.csv) |
 |[Traffic Accident](https://public.tableau.com/app/profile/julie1155/viz/TrafficAccident_16835636320400/Dashboard1)| Evaluating accident severity by vehicle and road type, road and weather condition. | Identified highest tendency resulting in causalties and correlation of road and weather condition with casualties. | [Data Tutorials](https://www.youtube.com/watch?v=jhv_HPjtTyU) |
-
-
-
-**Power BI**
-| Dashboard Link | Project Description | Key Insights/Impact | Data Source |
-|---|---|---|---|
-
-
-**SQL**
-| Project Link | Area of Analysis | Project Description | Data Source |
-|---|---|---|---|
-|[Career Track Analysis](https://github.com/julietansy/365DataScience_Career-Track-Analysis.git) | Data transformation, data analysis |---|[365datascience](https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)|
-
-**Python**
-| Project Link | Area of Analysis | Project Description | Data Source |
-|---|---|---|---|
-|[Ames Housing](https://github.com/julietansy/Ames-Housing#-ames-housing-sale-price) | Data cleaning, data transformation, Correlation, Regression Analysis |Property age significantly impacts sale prices, with younger houses generally holding higher values. In addition to age, factors like diverse living areas—total living, first-floor, ground, and basement areas—contribute substantially to property values. Larger garage spaces also influence prices positively, together with the number of baths, indicating distinct preferences in determining a property's market value.|[Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/code)|
