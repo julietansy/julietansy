@@ -18,7 +18,7 @@ This is my hub for all things data—a collection of projects, insights, and dis
 **SQL**
 | Project Link | Area of Analysis | Data Source |
 |---|---|---|
-|[Data with Danny](https://github.com/julietansy/Data-with-Danny/blob/main/Case%20Study%20%233/README.md) | Data transformation, data analysis |[Case Study #3: Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/)|
+|[Data with Danny](https://github.com/julietansy/Data-with-Danny/blob/main/Case%20Study%20%233/README.md) | Data reporting and business insights |[Case Study #3: Foodie-Fi](https://8weeksqlchallenge.com/case-study-3/)|
 |[Career Track Analysis](https://github.com/julietansy/365DataScience_Career-Track-Analysis.git) | Data transformation, data analysis |[365datascience](https://learn.365datascience.com/projects/career-track-analysis-with-sql-and-tableau/)|
 |[Hospital Patient Admission Analysis](https://github.com/julietansy/Patient-Admission/tree/main)| Data manipulation, data transformation |[SQL Practice](https://www.sql-practice.com/)|
 
