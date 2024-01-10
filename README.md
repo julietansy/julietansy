@@ -25,7 +25,8 @@ This is my hub for all things data—a collection of projects, insights, and dis
 **Python**
 | Project Link | Area of Analysis | Project Description | Data Source |
 |---|---|---|---|
-|[Ames Housing](https://github.com/julietansy/Ames-Housing#-ames-housing-sale-price) | Data cleaning, data transformation, Correlation, Regression Analysis |Property age significantly impacts sale prices, with younger houses generally holding higher values. In addition to age, factors like diverse living areas—total living, first-floor, ground, and basement areas—contribute substantially to property values. Larger garage spaces also influence prices positively, together with the number of baths, indicating distinct preferences in determining a property's market value.|[Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/code)|
+|[Policy Effectivess and Trend Prediction](https://github.com/julietansy/Prediction-of-Issues-and-Bugs)|Data mining, Model Fitting, Prediction |Capstone Project as part of the Professional Diploma in Data Analytics at National University of Singapore - Institute of System Science. The key objective is to evaluate the effectiveness of the organization's policy and prediction of trend of issues and bugs in the next 3 months |Actual Dataset|
+|[Ames Housing](https://github.com/julietansy/Ames-Housing#-ames-housing-sale-price) | Data cleaning, Data transformation, Correlation, Regression Analysis |Property age significantly impacts sale prices, with younger houses generally holding higher values. In addition to age, factors like diverse living areas—total living, first-floor, ground, and basement areas—contribute substantially to property values. Larger garage spaces also influence prices positively, together with the number of baths, indicating distinct preferences in determining a property's market value.|[Kaggle](https://www.kaggle.com/datasets/prevek18/ames-housing-dataset/code)|
 
 
 **Tableau**
